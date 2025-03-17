@@ -1,8 +1,8 @@
 import * as vscode from 'vscode';
 import axios from 'axios';
 
-const GOOGLE_API_KEY = 'AIzaSyD2YfdBmH5TYMklO7diC72N3Gy7w4zYzDA';
-const GOOGLE_SEARCH_ENGINE_ID = '16318ce58ae09495c';
+const GOOGLE_API_KEY = '';
+const GOOGLE_SEARCH_ENGINE_ID = '';
 
 export function activate(context: vscode.ExtensionContext) {
     console.log('ScrapFixes extension is now active!');
